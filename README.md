@@ -57,7 +57,6 @@ Must-have requeriments:
 Nice-to-have requeriments:
 - TypeScript
 - Serverless functions (you can easily use [Vercel](https://vercel.com) or [Serverless Framework](https://serverless.com) if you're new to this, but any serverless environment of your confort does the job).
-- Use Puppeteer in at least one of the sources.
 - Create a system caché that show information no older than 60 seconds
 
 ### 2. Frontend
